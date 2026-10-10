@@ -1,0 +1,127 @@
+LOTUS HYMNAL BINARY USE LICENSE
+Version 1.0 — 10 October 2026
+
+Copyright (c) 2026 Lotus. All rights reserved.
+
+This is a proprietary software license. It is not an open-source license.
+
+By downloading, installing, or using Hymnal, you accept this License. If you do
+not accept it, do not download, install, or use Hymnal.
+
+1. DEFINITIONS
+
+“Hymnal” or the “Software” means the unmodified Windows executable binaries, bundled Lotus-authored assets, and accompanying documentation that
+Lotus publishes through an official Lotus website or an official Lotus GitHub
+release.
+
+“You” means the individual or organization that obtains the Software.
+
+2. PERMITTED USE
+
+Lotus grants You a worldwide, royalty-free, non-exclusive, non-transferable,
+revocable license to:
+
+  a. download, install, and use unmodified official Hymnal binaries on devices
+     You own or control; and
+
+  b. make a reasonable number of backup copies solely for Your own permitted
+     use.
+
+Permitted use includes personal, educational, charitable, and internal
+workplace use. A business may use an official unmodified binary internally, but
+may not sell, redistribute, monetize, or provide Hymnal as part of a product or
+paid service. Donations made voluntarily to Lotus do not purchase additional
+rights and are not required to use Hymnal.
+
+3. RESTRICTIONS
+
+Except where applicable law gives You a right that cannot be restricted, You
+may not:
+
+  a. redistribute, mirror, publish, upload, sublicense, rent, lease, sell,
+     transfer, or otherwise provide copies of Hymnal to another person;
+
+  b. charge for Hymnal or for access to it, bundle it into another distributed
+     product or service, use it as a paid feature, or otherwise monetize the
+     Software itself;
+
+  c. modify, patch, translate, adapt, or create derivative works of Hymnal;
+
+  d. reverse engineer, decompile, disassemble, extract, or attempt to discover
+     source code, non-public protocols, private assets, keys, or internal design;
+
+  e. scrape or systematically extract Hymnal code, assets, interfaces, or other
+     protected expression, including for a dataset or for training, evaluating,
+     or fine-tuning a machine-learning model;
+
+  f. bypass technical protections, signatures, access
+     controls, or integrity checks;
+
+  g. remove or alter copyright, attribution, trademark, signature, or other
+     proprietary notices; or
+
+  h. use the Lotus or Hymnal names, marks, visual identity, or signatures in a
+     way that implies endorsement or that identifies a modified or unofficial
+     build as authentic.
+
+You may link people to an official Lotus download page. Linking is encouraged
+and is not redistribution.
+
+4. SECURITY RESEARCH AND INTEROPERABILITY
+
+Nothing in this License limits rights that applicable law grants despite a
+contractual restriction. Lotus may separately authorize good-faith security
+research or interoperability work in writing. Suspected vulnerabilities must
+be reported privately through the security contact published by Lotus; that
+reporting route does not by itself authorize public disclosure, exploitation,
+privacy invasion, or distribution of modified binaries.
+
+5. THIRD-PARTY MATERIAL
+
+Hymnal may include third-party components governed by their own licenses. Those
+licenses apply to the corresponding third-party components and are not replaced
+or restricted by this License. This License applies only to rights Lotus is
+authorized to license.
+
+6. OWNERSHIP
+
+Hymnal is licensed, not sold. Lotus retains all title, copyright, trademark,
+trade-secret, and other rights in the Software. No rights are granted by
+implication, estoppel, or otherwise beyond the limited permission in Section 2.
+
+7. UPDATES AND TERMINATION
+
+Lotus is not required to provide updates or support. Lotus may release updates
+under this License or a later license presented with that release.
+
+Your rights under this License terminate automatically if You violate it. Upon
+termination, You must stop using and delete all copies of Hymnal in Your
+possession or control. Sections 3 through 10 survive termination.
+
+8. DISCLAIMER OF WARRANTY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, HYMNAL IS PROVIDED “AS IS” AND “AS
+AVAILABLE,” WITHOUT WARRANTIES OF ANY KIND, EXPRESS, IMPLIED, OR STATUTORY,
+INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE, NON-INFRINGEMENT, SECURITY, AVAILABILITY, OR ERROR-FREE OPERATION.
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LOTUS AND ITS CONTRIBUTORS WILL NOT BE
+LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE
+DAMAGES, OR FOR LOSS OF DATA, PROFITS, REVENUE, GOODWILL, OR BUSINESS, ARISING
+FROM OR RELATED TO HYMNAL, EVEN IF ADVISED OF THE POSSIBILITY. LOTUS’S TOTAL
+LIABILITY ARISING FROM OR RELATED TO HYMNAL WILL NOT EXCEED THE AMOUNT YOU PAID
+LOTUS SPECIFICALLY FOR THE SOFTWARE DURING THE TWELVE MONTHS BEFORE THE EVENT
+GIVING RISE TO THE CLAIM; VOLUNTARY DONATIONS ARE NOT PAYMENTS FOR THE SOFTWARE.
+
+Some jurisdictions do not allow particular exclusions or limitations, so parts
+of Sections 8 or 9 may not apply to You.
+
+10. GENERAL
+
+If a provision is unenforceable, it will be limited to the minimum extent
+necessary and the remaining provisions will remain effective. A waiver must be
+in writing and applies only to the specific instance waived. This License is the
+entire agreement concerning the rights granted here and may be changed only by
+a written agreement from Lotus or by accepting a later license with an update.
